@@ -1,0 +1,290 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.18f|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+npAdobeAAMDetect32.dll|$
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect32.dll|$
+3.0.0.0|$
+1517318886000|0|0|0|$
+Creative Cloud Desktop Plugin.v_3_0_0_0|$
+AdobeAAMDetect|$
+1
+0|application/x-adobeaamdetect|AdobeAAMDetect||$
+npaplayer.dll|$
+C:\Users\Public\Thunder Network\APlayer\codecs\npaplayer.dll|$
+1.0.0.2|$
+1373089708000|0|0|0|$
+APlayer III ActiveX hosting plugin for Firefox|$
+APlayer ActiveX hosting plugin|$
+1
+0|application/x-thunder-aplayer|ActiveX|ocx|$
+npDapCtrl.dll|$
+C:\Users\Public\Thunder Network\XMP5\Addins\npDapCtrl.dll|$
+3.3.1.17|$
+1517799850000|0|0|0|$
+Thunder DapCtrl NPAPI Plugin|$
+Thunder DapCtrl NPAPI Plugin|$
+1
+0|application/x-thunder-dapctrl|Thunder DapCtrl Plugin|*|$
+nptxftnWebKit.dll|$
+C:\Program Files (x86)\QQMailPlugin\nptxftnWebKit.dll|$
+1.0.0.4|$
+1365408134000|0|0|0|$
+Tencent FTN plug-in|$
+Tencent FTN plug-in|$
+1
+0|application/txftn-webkit|nptxftn||$
+npQQMailWebKit.dll|$
+C:\Program Files (x86)\QQMailPlugin\npQQMailWebKit.dll|$
+1.0.0.22|$
+1366877940000|0|0|0|$
+QQMail plugin for WebKit #1.0.0.22|$
+QQMail Plugin|$
+2
+0|application/x-tencent-qmail-webkit|QQMailPlugin for webkit||$
+1|application/x-tencent-qmail|QQMailPlugin for webkit||$
+npSSOAxCtrlForPTLogin.dll|$
+C:\Program Files (x86)\Common Files\Tencent\TXSSO\1.2.5.41\Bin\npSSOAxCtrlForPTLogin.dll|$
+1.0.1.16|$
+1575354502000|0|0|0|$
+QQ QuickLogin Helper|$
+Tencent SSO Platform|$
+1
+0|application/nptxsso|TXSSO||$
+npQzoneMusic.dll|$
+C:\Program Files (x86)\Tencent\QzoneMusic\npQzoneMusic.dll|$
+9.51.3087.226|$
+1456451578000|0|0|0|$
+QQÒôÀÖ²¥·Å¿Ø¼þ|$
+QQÒôÀÖ²¥·Å¿Ø¼þ|$
+1
+0|application/tecent-qzonemusic-plugin|This plug-in is transfers of QzoneMusic when opening Qzone in a web page with Firefox.|rts|$
+npQQPhotoDrawEx.dll|$
+C:\Program Files (x86)\Tencent\Qzone\npQQPhotoDrawEx.dll|$
+2.47.312.813|$
+1376385610000|0|0|0|$
+npQQPhotoDrawEx Module|$
+npQQPhotoDrawEx|$
+1
+0|application/tencent-qqphotodrawex2-plugin||rts|$
+npQMExtensionsMozilla.dll|$
+C:\Program Files (x86)\Tencent\QQPCMgr\13.5.20525.234\npQMExtensionsMozilla.dll|$
+3.0.0.3|$
+1584579390912|0|0|0|$
+QQPCMgr Mozilla Extenstion|$
+QQPCMgr Detector|$
+1
+0|application/qqpcmgr-extensions-mozilla|||$
+npXFMiniDLPlugin.dll|$
+C:\Program Files (x86)\Common Files\Tencent\QQMiniDL\60\Browser\npXFMiniDLPlugin.dll|$
+1.4.50.400|$
+1398413128000|0|0|0|$
+QQMiniDL Plugin|$
+QQMiniDL Plugin|$
+1
+0|application/npxf-qqminidl|npXFPlug|dll|$
+npQQLive.dll|$
+D:\膨讯视频\QQLive\npQQLive.dll|$
+10.31.5635.0|$
+1584003682000|0|0|0|$
+腾讯视频 version:10.31.5635.0|$
+腾讯视频|$
+1
+0|application/tecent-qqlive-plugin|||$
+npactivex.dll|$
+C:\Program Files (x86)\Common Files\Tencent\Npchrome\npactivex.dll|$
+6.0.1.1|$
+1582812824389|0|0|0|$
+Tencent QQ CPHelper plugin for Chrome|$
+Tencent QQ|$
+1
+0|application/qscall-plugin|DLL|dll|$
+NPSPWRAP.DLL|$
+C:\Program Files (x86)\Microsoft Office\root\Office16\NPSPWRAP.DLL|$
+16.0.12325.20144|$
+1578990408444|0|0|0|$
+The plugin allows you to have a better experience with Microsoft SharePoint|$
+Microsoft Office|$
+2
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+1|application/x-sharepoint-uc|||$
+npMeetingJoinPluginOC.dll|$
+C:\Program Files (x86)\Microsoft Office\root\VFS\ProgramFilesX86\Mozilla Firefox\plugins\npMeetingJoinPluginOC.dll|$
+16.0.12228.20120|$
+1575631482041|0|0|0|$
+The plugin allows you to have a better experience with Microsoft Lync|$
+Microsoft Office|$
+1
+0|application/vnd.microsoft.communicator.ocsmeeting|Lync Plug-in for Firefox||$
+npyunwebdetect.dll|$
+D:\BaiduNetdiskDownload\BaiduNetdisk\BaiduNetdisk\BaiduNetdisk\npyunwebdetect.dll|$
+6.8.9.1|$
+1577256734000|0|0|0|$
+YunWebDetect|$
+BaiduYunGuanjia Application|$
+1
+0|application/bd-npyunwebdetect-plugin|||$
+NPComBrg701.dll|$
+C:\WINDOWS\system32\itruscert\NPComBrg701.dll|$
+1.0.2011.701|$
+1311580152000|0|0|0|$
+iTrusPTA&XEnroll hwPTA,IEnroll,UKeyInstalls for FireFox,version=1.0.0.2|$
+iTrusChina iTrusPTA,XEnroll,iEnroll,hwPTA,UKeyInstalls Firefox Plugin|$
+6
+0|application/pta.itruspta.version.1|PTA|*|$
+1|application/cenroll.cenroll.version.1|CEnroll||$
+2|application/itrusenroll.certenroll.version.1|IEnroll||$
+3|application/hwpta.itrushwpta|hwPTA||$
+4|application/hwwdkey.installwdkey|hwWDkey||$
+5|application/hwepass2001.installepass2001|HwEpass2001||$
+npalidcp.dll|$
+C:\Program Files (x86)\alipay\aliedit\5.1.0.3754\npalidcp.dll|$
+1.0.0.1|$
+1404391014000|0|0|0|$
+npalidcp|$
+Alipay webmod control|$
+1
+0|application/alidcp|npalidcp| |$
+npaliedit.dll|$
+C:\Program Files (x86)\alipay\aliedit\5.1.0.3754\npaliedit.dll|$
+1.3.0.2|$
+1404391014000|0|0|0|$
+npaliedit|$
+Alipay security control|$
+1
+0|application/aliedit|npaliedit| |$
+npalicdo.dll|$
+C:\Program Files (x86)\alipay\aliedit\5.1.0.3754\npalicdo.dll|$
+1.0.0.4|$
+1421228434000|0|0|0|$
+npalicdo|$
+npalicdo plugin|$
+1
+0|application/npalicdo|npalicdo|dll|$
+npAlipaydhc.dll|$
+C:\Program Files (x86)\alipay\aliedit\5.1.0.3754\npAlipaydhc.dll|$
+1.0.6.0|$
+1421228436000|0|0|0|$
+Alipay Internet Health Control|$
+Alipay Security Payment Client Suit|$
+1
+0|application/x-aliinethealth-plugin|npAliInetHealth.dll|*|$
+npAliSecCtrl.dll|$
+C:\Program Files (x86)\alipay\aliedit\5.1.0.3754\npAliSecCtrl.dll|$
+2.0.2.0|$
+1421228438000|0|0|0|$
+Alipay Security Control|$
+Alipay Security Control 3|$
+1
+0|application/x-alisecctrl-plugin|npAliSecCtrl.dll|*|$
+NPSWF32_32_0_0_314.dll|$
+C:\WINDOWS\SysWOW64\Macromed\Flash\NPSWF32_32_0_0_314.dll|$
+32.0.0.314|$
+1579097976253|0|0|0|$
+Shockwave Flash 32.0 r0*|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+npxluser2.0.2.3.dll|$
+C:\Program Files (x86)\Common Files\Thunder Network\UserAgent\npxluser2.0.2.3.dll|$
+2.0.2.3|$
+1578148994498|0|0|0|$
+Xunlei User scriptability Plugin,version= 2.0.2.3|$
+XunLei User Plugin|$
+1
+0|application/npxluser_plugin|||$
+npAliSSOLogin.dll|$
+D:\阿里旺旺\9.12.03C\npAliSSOLogin.dll|$
+1.0.0.2|$
+1548476672365|0|0|0|$
+npAliSSOLogin Plugin|$
+AliSSOLogin plugin|$
+1
+0|application/npalissologin|AliSSOLogin|AliSSOLogin|$
+npwangwang.dll|$
+D:\阿里旺旺\9.12.03C\npwangwang.dll|$
+1.0.0.6|$
+1548476672366|0|0|0|$
+npwangwang|$
+AliWangWang Plug-In For Firefox and Netscape|$
+1
+0|application/ww-plugin|npwangwang|dll|$
+npqqwebgame.dll|$
+C:\Users\Administrator\AppData\Roaming\Tencent\WebGamePlugin\1.0.4.3\npqqwebgame.dll|$
+1.0.4.3|$
+1445322560000|0|0|0|$
+QQWebGamePlugin Pro|$
+QQGamePlugin Pro|$
+1
+0|application/npqqwebgame|QQWebGamePlugin Pro|rts|$
+np-mswmp.dll|$
+F:\Web安全\基础教程\工具\工具包\安全工具包v7\Cracer安全工具包\漏洞分析\Firefox 52.0.2 渗透便携版 T00LS beta8\Plugins\np-mswmp.dll|$
+1.1.2.0|$
+1457822167494|0|0|0|$
+|$
+windows mediaplayer Plug-in|$
+39
+0|application/x-ms-wmp|wmp|*|$
+1|application/asx|asx|*|$
+2|audio/mpeg|MPEG audio|mp2,mp3,mpga,mpega,*|$
+3|audio/x-mpeg|MPEG audio|mp2,mp3,mpga,mpega,*|$
+4|video/mpeg|MPEG video|mpg,mpeg,mpe,*|$
+5|video/x-mpeg|MPEG video|mpg,mpeg,mpe,*|$
+6|video/mpeg-system|MPEG video|mpg,mpeg,vob,*|$
+7|video/x-mpeg-system|MPEG video|mpg,mpeg,vob,*|$
+8|video/mp4|MPEG-4 video|mp4,mpg4,*|$
+9|audio/mp4|MPEG-4 audio|mp4,mpg4,*|$
+10|application/mpeg4-iod|MPEG-4 video|mp4,mpg4,*|$
+11|application/mpeg4-muxcodetable|MPEG-4 video|mp4,mpg4,*|$
+12|video/x-msvideo|AVI video|avi,*|$
+13|video/quicktime|QuickTime video|mov,qt,*|$
+14|application/x-ogg|Ogg stream|ogg,*|$
+15|application/ogg|Ogg stream|ogg,*|$
+16|application/x-vlc-plugin|VLC plug-in|vlc,*|$
+17|video/x-ms-asf-plugin|Windows Media video|asf,asx,*|$
+18|video/x-ms-asf|Windows Media video|asf,asx,*|$
+19|application/x-mplayer2|Windows Media plug-in||$
+20|video/x-ms-wmv|Windows Media video|wmv,*|$
+21|application/x-google-vlc-plugin|Google VLC plug-in||$
+22|audio/wav|WAV audio|wav,*|$
+23|audio/x-wav|WAV audio|wav,*|$
+24|audio/3gpp|3GPP audio|3gp,3gpp,*|$
+25|video/3gpp|3GPP video|3gp,3gpp,*|$
+26|audio/3gpp2|3GPP2 audio|3g2,3gpp2,*|$
+27|video/3gpp2|3GPP2 video|3g2,3gpp2,*|$
+28|video/divx|DivX video|divx,*|$
+29|video/flv|FLV video|flv,*|$
+30|video/x-flv|FLV video|flv,*|$
+31|video/x-matroska|Matroska video|mkv,*|$
+32|audio/x-matroska|Matroska audio|mka,*|$
+33|application/xspf+xml|Playlist xspf|xspf,*|$
+34|audio/x-m4a|MPEG-4 audio|m4a,*|$
+35|audio/x-mpegurl|Playlist M3U|m3u,*|$
+36|audio/x-ms-wma|Windows Media Audio|wma,*|$
+37|application/vnd.rn-realmedia|Ream Media Vibrate Biterate|rmvb,rm,*|$
+38|audio/midi|midi audio|mid,midi,*|$
+NPSWF32_25_0_0_148.dll|$
+F:\Web安全\基础教程\工具\工具包\安全工具包v7\Cracer安全工具包\漏洞分析\Firefox 52.0.2 渗透便携版 T00LS beta8\Plugins\NPSWF32_25_0_0_148.dll|$
+25.0.0.148|$
+1493006368952|0|0|0|$
+Shockwave Flash 25.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]
+C:\Program Files (x86)\alipay\aliedit\5.1.0.3754\npAliSecCtrl64.dll|$
+1421228440000|$
+C:\Program Files (x86)\alipay\aliedit\5.1.0.3754\npAlipaydhc64.dll|$
+1421228438000|$
+C:\Program Files (x86)\alipay\aliedit\5.1.0.3754\npalicdo64.dll|$
+1421228434000|$
+C:\Program Files (x86)\Tencent\QQPCMgr\13.5.20525.234\npQMExtensionsIE.dll|$
+1584579390912|$
+C:\Program Files (x86)\Adobe\Adobe Creative Cloud\Utils\npAdobeAAMDetect64.dll|$
+1517318886000|$
